@@ -259,12 +259,20 @@
     padding-right: 64px;
 }
 
+.pb-32 {
+    padding-bottom: 32px;
+}
+
 .pb-64 {
     padding-bottom: 64px;
 }
 
 .pl-64 {
     padding-left: 64px;
+}
+
+.py-32 {
+    padding: 32px 0;
 }
 
 .py-64 {
