@@ -23,6 +23,7 @@
     
     .about-text-responsive {
         width: 100%;
+        padding: 0 100px;
     }
 
     .footer-text-responsive {
@@ -31,5 +32,10 @@
 
     .navbar-menu {
         display: none;
+    }
+
+    #img-avatar {
+        width: 300px !important;
+        margin-bottom: 20px;
     }
 }

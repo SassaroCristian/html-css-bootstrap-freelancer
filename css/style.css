@@ -14,8 +14,8 @@ background-color: #3A546D;
     width: 15%;
 }
 
-.cards-img {
-   width: 100%;
+.img-fluid {
+    border-radius: 16px;
 }
 
 .icon-nav-menu {
