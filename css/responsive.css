@@ -1,0 +1,35 @@
+@media screen and (max-width: 1120px) {
+    .cards-main {
+        width: 50%;
+    }
+   
+}
+
+@media screen and (min-width: 701px) {
+    .icon-nav-menu {
+        display: none !important;
+    }
+
+    .div-menu-responsive {
+        display: none  !important;
+    }
+    
+}
+
+@media screen and (max-width: 700px) {
+    .cards-main {
+        width: 100%;
+    }
+    
+    .about-text-responsive {
+        width: 100%;
+    }
+
+    .footer-text-responsive {
+        width: 100%;
+    }
+
+    .navbar-menu {
+        display: none;
+    }
+}

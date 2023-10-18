@@ -17,3 +17,39 @@ background-color: #3A546D;
 .cards-img {
    width: 100%;
 }
+
+.icon-nav-menu {
+    border: 1px solid white;
+    padding: 2px;
+}
+
+.footer-social-icons {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.line-white {
+    height: 3px;
+    width: 150px;
+    margin-right: 20px;
+    margin-left: 20px;
+    align-self: center;
+    background-color: white;
+}
+
+.line-black {
+    height: 3px;
+    width: 150px;
+    margin-right: 20px;
+    margin-left: 20px;
+    align-self: center;
+    background-color: black;
+}
+
+.btn-succes {
+    background-color: #1ABC9C !important;
+}
